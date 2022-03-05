@@ -1,0 +1,178 @@
+             CURSO DE INTELIGENCIA ARTIFICIAL
+
+Bienvenido al juego de Puzzle 3x3
+
+Para este caso jugaremos desplazando la casilla cero representada como vacia los
+controles son los siguientes:
+
+    8
+    ^
+    |
+4<-- -->6
+    |
+    v
+    2
+________________________________________________________________________________
+
+                                   Numero de movimientos: 0
+                            2 8 3
+                            1 6 4
+                            7 0 5
+8
+                                   Numero de movimientos: 1
+                            2 8 3
+                            1 0 4
+                            7 6 5
+8
+                                   Numero de movimientos: 2
+                            2 0 3
+                            1 8 4
+                            7 6 5
+6
+                                   Numero de movimientos: 3
+                            2 3 0
+                            1 8 4
+                            7 6 5
+2
+                                   Numero de movimientos: 4
+                            2 3 4
+                            1 8 0
+                            7 6 5
+2
+                                   Numero de movimientos: 5
+                            2 3 4
+                            1 8 5
+                            7 6 0
+1
+Comando incorrecto
+                                   Numero de movimientos: 6
+                            2 3 4
+                            1 8 5
+                            7 6 0
+4
+                                   Numero de movimientos: 7
+                            2 3 4
+                            1 8 5
+                            7 0 6
+4
+                                   Numero de movimientos: 8
+                            2 3 4
+                            1 8 5
+                            0 7 6
+8
+                                   Numero de movimientos: 9
+                            2 3 4
+                            0 8 5
+                            1 7 6
+8
+                                   Numero de movimientos: 10
+                            0 3 4
+                            2 8 5
+                            1 7 6
+6
+                                   Numero de movimientos: 11
+                            3 0 4
+                            2 8 5
+                            1 7 6
+6
+                                   Numero de movimientos: 12
+                            3 4 0
+                            2 8 5
+                            1 7 6
+2
+                                   Numero de movimientos: 13
+                            3 4 5
+                            2 8 0
+                            1 7 6
+2
+                                   Numero de movimientos: 14
+                            3 4 5
+                            2 8 6
+                            1 7 0
+1
+Comando incorrecto
+                                   Numero de movimientos: 15
+                            3 4 5
+                            2 8 6
+                            1 7 0
+4
+                                   Numero de movimientos: 16
+                            3 4 5
+                            2 8 6
+                            1 0 7
+6
+                                   Numero de movimientos: 17
+                            3 4 5
+                            2 8 6
+                            1 7 0
+8
+                                   Numero de movimientos: 18
+                            3 4 5
+                            2 8 0
+                            1 7 6
+8
+                                   Numero de movimientos: 19
+                            3 4 0
+                            2 8 5
+                            1 7 6
+4
+                                   Numero de movimientos: 20
+                            3 0 4
+                            2 8 5
+                            1 7 6
+4
+                                   Numero de movimientos: 21
+                            0 3 4
+                            2 8 5
+                            1 7 6
+2
+                                   Numero de movimientos: 22
+                            2 3 4
+                            0 8 5
+                            1 7 6
+2
+                                   Numero de movimientos: 23
+                            2 3 4
+                            1 8 5
+                            0 7 6
+6
+                                   Numero de movimientos: 24
+                            2 3 4
+                            1 8 5
+                            7 0 6
+6
+                                   Numero de movimientos: 25
+                            2 3 4
+                            1 8 5
+                            7 6 0
+8
+                                   Numero de movimientos: 26
+                            2 3 4
+                            1 8 0
+                            7 6 5
+8
+                                   Numero de movimientos: 27
+                            2 3 0
+                            1 8 4
+                            7 6 5
+4
+                                   Numero de movimientos: 28
+                            2 0 3
+                            1 8 4
+                            7 6 5
+4
+                                   Numero de movimientos: 29
+                            0 2 3
+                            1 8 4
+                            7 6 5
+2
+                                   Numero de movimientos: 30
+                            1 2 3
+                            0 8 4
+                            7 6 5
+6
+------ÌFELICITACIONES!------
+                                   Numero de movimientos: 31
+                            1 2 3
+                            8 0 4
+                            7 6 5
